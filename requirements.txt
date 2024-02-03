@@ -1,0 +1,2 @@
+ccxt==4.2.34
+termcolor==2.4.0
